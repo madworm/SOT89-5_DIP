@@ -1,0 +1,17 @@
+Cmp-Mod V01 Genere par PcbNew le Fri 05 Oct 2012 02:15:38 PM CEST
+
+BeginCmp
+TimeStamp = /506ECCDA;
+Reference = P1;
+ValeurCmp = DIL6;
+IdModule  = DIP-6__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /506ECC83;
+Reference = U1;
+ValeurCmp = MADW__PT4115-SOT89-5;
+IdModule  = MADW__SOT89-5;
+EndCmp
+
+EndListe
